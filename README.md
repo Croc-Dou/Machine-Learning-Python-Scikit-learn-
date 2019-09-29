@@ -15,3 +15,5 @@ Hard vs Soft Clustering
 Organizing Clusters as a hierarchical tree
 Dendrograms and heat map
 Density-based Spatial Clustering of Applications with Noise (DBSCAN)
+
+And some other practices.
